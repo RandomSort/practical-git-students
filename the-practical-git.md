@@ -13,3 +13,5 @@ Cheers,
 The Practical Git
 
 Added file
+
+changed
