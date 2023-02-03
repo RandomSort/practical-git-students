@@ -1,5 +1,5 @@
 Hi,<br>
-This will be my first ever contribution to a public repository.<br>
-Have a nice day.<br>
+This is my first attempt in contributing to a public repository.<br>
+Thanks and have a nice day 😁<br>
 
-Thanks 😁
+from Cheng-K
